@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 
 ## GIT & GITHub Training
 This is a course
+Adding GIT Rebase Lectures
 
 ## Contribution
 Fork the REPO and raised pull request for review
