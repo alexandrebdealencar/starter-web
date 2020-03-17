@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     Alexandre de Alencar - alexandredealencar@outlook.com
+    Developer
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java PRogramming
