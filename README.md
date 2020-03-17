@@ -13,6 +13,9 @@ Sample website with plenty of files for demos
 ## GIT & GITHub Training
 This is a course
 
+## Contribution
+Fork the REPO and raised pull request for review
+
 ## GIT Comparison
 Adding GIT Comparison Lecture
 
