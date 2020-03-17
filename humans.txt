@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Alexandre de Alencar - alexandredealencar@outlook.com
 
 # THANKS
 
