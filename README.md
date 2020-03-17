@@ -8,6 +8,8 @@ This is a GIT Project for education porposes
 Sample website with plenty of files for demos
 
 ## Introduction
+Lots of lectures submitted
+And lots others are coming on
 
 
 ## GIT & GITHub Training
