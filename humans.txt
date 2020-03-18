@@ -3,6 +3,7 @@
 Hi!!
 Doing changes locally
 Hi! Inserting more conflicts
+Adding notes about GIT Stash
 
 # TEAM
 
