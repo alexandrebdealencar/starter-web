@@ -1,3 +1,5 @@
 #Adding new file to GIT
 
 Just an example
+
+Adding New Examples
