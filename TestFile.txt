@@ -1,1 +1,2 @@
 Teste de texto
+This is a git tag commit
